@@ -1,5 +1,5 @@
 class demo1{
 
-Sysout("demo1");
+System.out.println("demo1");
 }
 
