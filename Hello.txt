@@ -1,2 +1,4 @@
-class hello{
-Sysout("Hello World");}
+class hello
+{
+System.out.println("Hello World");
+}
